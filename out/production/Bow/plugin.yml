@@ -1,0 +1,8 @@
+name: BowDraw
+main: bowdraw.utama
+version: 0.0.1
+description: Cancel Bow Animation
+depend:
+  - MythicLib
+  - MMOItems
+  - MMOCore
